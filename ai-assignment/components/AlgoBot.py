@@ -5,7 +5,7 @@ import math
 pygame.font.init()
 
 from GROUP_10 import group1
-from group1godineedsleep import group2
+from group2 import group2
 
 GREY = (128, 128, 128)
 PURPLE = (178, 102, 255)
